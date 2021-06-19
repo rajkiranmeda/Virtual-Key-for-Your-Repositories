@@ -1,0 +1,11 @@
+***********Sprints planning and Task completion***************
+:-The project is planned to be completed in "1 sprint(3 Weeks)". Tasks assumed to be completed in the sprint are:
+• Creating the flow of the application
+• Initializing git repository to track changes as development progresses.
+• Writing the Java program to fulfill the requirements of the project.
+• Testing the Java program with different kinds of User input
+• Pushing code to GitHub.
+• Creating this specification document highlighting application capabilities, appearance, and user interactions.
+
+*********************Core concepts used in project****************
+:-Collections framework, File Handling, Sorting, Flow Control, Recursion, Exception Handling, Streams API

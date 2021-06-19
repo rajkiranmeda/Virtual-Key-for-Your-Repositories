@@ -1,0 +1,6 @@
+Conclusions
+Further enhancements to the application can be made which may include:
+• Conditions to check if user is allowed to delete the file or add the file at the specific locations.
+• Asking user to verify if they really want to delete the selected directory if it’s not empty.
+• Retrieving files/folders by different criteria like Last Modified, Type, etc.
+• Allowing user to append data to the file.

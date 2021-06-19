@@ -1,0 +1,5 @@
+Unique Selling Points of the Application
+1. The application is designed to keep on running and taking user inputs even after exceptions occur. 
+   To terminate the application, appropriate option needs to be selected.
+2. The application can take any file/folder name as input. Even if the user wants to create nested folder structure, 
+   user can specify the relative path, and the application takes care of creating the required folder structure.
